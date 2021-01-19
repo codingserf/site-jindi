@@ -1,0 +1,184 @@
+{
+    "FB101A": {
+        "name": "麦当劳",
+        "tel": "021-86330980",
+        "logo": "http://121.40.137.99/files/FB101F407.jpg",
+        "type1": [
+            "cy"
+        ],
+        "type2": [
+            "mon",
+            "dad"
+        ]
+    },
+    "FB123": {
+        "name": "韩国帽子房",
+        "tel": "",
+        "logo": "http://121.40.137.99/files/FB123.jpg",
+        "type1": [
+            "fspj"
+        ],
+        "type2": [
+            "mon"
+        ]
+    },
+    "FB122": {
+        "name": "阿吉豆",
+        "tel": "",
+        "logo": "http://121.40.137.99/files/FB122.jpg",
+        "type1": [
+            "fspj"
+        ],
+        "type2": [
+            "mon"
+        ]
+    },
+    "FB128B": {
+        "name": "宝路喜",
+        "tel": "",
+        "logo": "http://121.40.137.99/files/FB128B.jpg",
+        "type1": [
+            "fspj"
+        ],
+        "type2": [
+            "dad"
+        ]
+    },
+    "FB128": {
+        "name": "鹿岛会员店",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "fspj"
+        ],
+        "type2": [
+            "mon"
+        ]
+    },
+    "FB124": {
+        "name": "LNO",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "fspj"
+        ],
+        "type2": [
+            "mon"
+        ]
+    },
+    "FB125.FB126": {
+        "name": "奥佳华",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "shyq"
+        ],
+        "type2": [
+            "other"
+        ]
+    },
+    "FB127": {
+        "name": "TGP",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "shyq"
+        ],
+        "type2": [
+            "mon"
+        ]
+    },
+    "FB115.FB116": {
+        "name": "竹叶青",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "shyq"
+        ],
+        "type2": [
+            "mon"
+        ]
+    },
+    "FB131B": {
+        "name": "观妙",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "shyq"
+        ],
+        "type2": [
+            "mon"
+        ]
+    },
+    "FB105": {
+        "name": "永辉超市",
+        "tel": "",
+        "logo": "http://121.40.137.99/files/B1.jpg",
+        "type1": [
+            "jpcs"
+        ],
+        "type2": [
+            "mon",
+            "other"
+        ]
+    },
+    "FB101B": {
+        "name": "caffebene",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "cy"
+        ],
+        "type2": [
+            "mon",
+            "dad"
+        ]
+    },
+    "FB103": {
+        "name": "星米年糕火锅",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "cy"
+        ],
+        "type2": [
+            "mon",
+            "dad"
+        ]
+    },
+    "FB107": {
+        "name": "贡茶",
+        "tel": "",
+        "logo": "http://121.40.137.99/files/FB107.jpg",
+        "type1": [
+            "cy"
+        ],
+        "type2": [
+            "mon",
+            "dad"
+        ]
+    },
+    "FB102": {
+        "name": "阿香米线",
+        "tel": "",
+        "logo": "http://121.40.137.99/files/FB102.jpg",
+        "type1": [
+            "cy"
+        ],
+        "type2": [
+            "mon",
+            "dad"
+        ]
+    },
+    "FB118": {
+        "name": "中旅",
+        "tel": "",
+        "logo": "http://121.40.137.99/",
+        "type1": [
+            "xxyl"
+        ],
+        "type2": [
+            "other"
+        ]
+    }
+}
